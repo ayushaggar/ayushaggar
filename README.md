@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Spatial Analysis
+- 🤔 I’m looking for help with Scaling ML Models
+- 💬 Ask me about Geoinformatics, Data Science and Vlog
+- 📫 How to reach me: https://www.ayushaggarwal.in/
+
 <!--
 **ayushaggar/ayushaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
