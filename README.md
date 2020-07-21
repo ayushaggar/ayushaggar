@@ -9,11 +9,9 @@
 
 ## About me
 
-✅ Currently working as Senior Machine Learning Engineer at Qyuki Digital Media
+✅ Currently working as Senior Machine Learning Engineer at Qyuki Digital Media and Learning Golang and Docker
 
-✅ Learning Golang and Docker
-
-Working On -
+✅ Working On -
 
 -> Social Media platforms analysis for identifying trends and user engagement
 
