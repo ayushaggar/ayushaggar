@@ -6,6 +6,7 @@
 - https://www.ayushaggarwal.in/ [20k + Views]
 - https://ayushaggar.wordpress.com/ [25k + Views]
 - https://www.linkedin.com/in/ayushaggar/
+- Email -> ayushaggar@gmail.com 
 
 ## About me
 
