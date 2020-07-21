@@ -3,9 +3,9 @@
 - 💬 Ask me about Geoinformatics, Data Science and Vlog
 
 ## 📫 How to reach me
-- https://www.ayushaggarwal.in/ [20k + Views]
-- https://ayushaggar.wordpress.com/ [25k + Views]
-- https://www.linkedin.com/in/ayushaggar/
+- Website -> https://www.ayushaggarwal.in/ [20k + Views]
+- Blog -> https://ayushaggar.wordpress.com/ [25k + Views]
+- Linkedin -> https://www.linkedin.com/in/ayushaggar/
 - Email -> ayushaggar@gmail.com 
 
 ## About me
