@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on Spatial Analysis at Large Scale
 - 💬 Ask me about Geoinformatics, Data Science and Vlog
+- 📧 Join my Newsletter (350+ Subscribers) regarding Geoinformatics, Machine Learning and Travel https://cutt.ly/newslettersubscribe 
 
 ## 📫 How to reach me
 - Website -> https://www.ayushaggarwal.in/ [20k + Views]
