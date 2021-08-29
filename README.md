@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about Geoinformatics, Data Science , Cloud and MLops
+- 💬 Ask me about Machine Learning, Geoinformatics, Cloud and MLops
 
 ## 📫 How to reach me
 - Website -> https://www.ayushaggarwal.in/ [22k + Views]
